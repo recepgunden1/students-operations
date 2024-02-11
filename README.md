@@ -1,2 +1,2 @@
-# E-OKUL
- - Basit bir okul kayit sistemi
+# E-SCHOOL
+ - A simple school registration system
